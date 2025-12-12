@@ -22,25 +22,20 @@ Solian WebAI dapat membantu Anda dalam:
 - Analisis dan pemrosesan teks
 - Dan banyak lagi!
 
-## 🌐 Teknologi
+## 📦 Cara Penggunaan
 
-Project ini dibangun menggunakan teknologi web modern untuk performa dan pengalaman pengguna terbaik.
+1. **Akses Website**
+   - Kunjungi [Solian WebAI](https://moonx388.github.io/solian-webai)
+   - Atau buka langsung di browser Anda
 
-## 📦 Instalasi
+2. **Mulai Berinteraksi**
+   - Ketik pertanyaan atau perintah Anda di kolom input
+   - Tekan Enter atau klik tombol kirim
+   - AI akan memproses dan memberikan respons
 
-```bash
-# Clone repository
-git clone https://github.com/MoonX388/solian-webai.git
-
-# Masuk ke direktori project
-cd solian-webai
-
-# Install dependencies (sesuaikan dengan package manager Anda)
-npm install
-
-# Jalankan aplikasi
-npm start
-```
+3. **Fitur Tambahan**
+   - Gunakan berbagai fitur yang tersedia di interface
+   - Sesuaikan pengaturan sesuai kebutuhan Anda
 
 ## 💻 Kontribusi
 
